@@ -1,1 +1,2 @@
 # NEXT-ERA-TECHNOLOGY
+Embark on a rewarding journey as a Robotics Engineer in an SDE role with our GitHub repository. Explore comprehensive resources to kickstart your career, from educational pathways in computer science to mastering programming languages like C++, Python, and Java. Dive into AI and machine learning concepts, delve into embedded systems, control algorithms, and sensor integration. With practical insights, internships, and open-source project contributions, you'll progress to advanced positions, shaping the future of robotics and technology.
